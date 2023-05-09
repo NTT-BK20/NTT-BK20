@@ -10,7 +10,7 @@
 🌱 &nbsp;I have passion and enthusiasm for this field and am always trying to learn to improve my skills and knowledge.\
 💡 &nbsp;I am confident that my seriousness, responsibility and learning spirit will help me achieve my goal of becoming a professional embedded programming engineer.\
 ✉️ &nbsp;You can shoot me an email at nguthetuanbr@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-Y1LEvoptkZrDvhrolpEZQUnrLA2h4Ne/view?usp=sharinghttps://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ZUzfCgcAoH579dtnNIQeXsz7aH3-dYtV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/NTT-BK20/NTT-BK20/master/assets/Night-Coding.gif" align="right"/>
 
