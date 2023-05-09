@@ -35,8 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/NTT-BK20">
-  <img height="180em" weight="10em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NTT-BK20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://raw.githubusercontent.com/NTT-BK20/NTT-BK20/master/assets/Coding.gif" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NTT-BK20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
