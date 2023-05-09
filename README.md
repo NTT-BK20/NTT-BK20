@@ -35,8 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/NTT-BK20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NTT-BK20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NTT-BK20&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" weight="10em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NTT-BK20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
@@ -46,5 +45,5 @@
 <a href="https://www.linkedin.com/in/nthetuan/"><img src="https://img.shields.io/badge/-The%20Tuan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nguthetuanbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/n.thetuan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-0907.599.133-1877F2?style=flat&logo=Zalo&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-0907 599 133-1877F2?style=flat&logo=Zalo&logoColor=white"/></a>
 </p>
